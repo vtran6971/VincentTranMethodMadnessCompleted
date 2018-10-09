@@ -10,6 +10,6 @@ public class Main {
         multiplicationTable.baseandrange(2, 5);
         int input = 10;
         System.out.println("Sum of the numbers from 0 to "+input+" is "+sumUpto.Sumof(input));
-        primePrinter.Nprimenumbers(10);
+        primePrinter.Nprimenumbers(11);
     }
 }
